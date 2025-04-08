@@ -51,6 +51,11 @@ body {
     margin-right: auto;
     display: none;
   }
+
+  .hint-btn {
+    margin-top: 20px;
+    display: none;
+  }
   
   .correct {
     background-color: #8bc34a;
