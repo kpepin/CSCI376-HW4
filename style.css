@@ -1,12 +1,13 @@
 body {
-    font-family: 'Segoe UI', sans-serif;
-    background: #f2f2f2;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-  }
+  font-family: 'Segoe UI', sans-serif;
+  background: url('240_F_274763459_HADMcYrskkrAPtBDWqv4RHXz9QXjPoLX.jpg') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
   
   .quiz-container {
     background: #fff;

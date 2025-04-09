@@ -26,6 +26,15 @@ const questions = [
       { text: "Computer Style Sheets", correct: false },
       { text: "Creative Style Syntax", correct: false }
     ]
+  },
+  {
+    question: "What is the best liberal arts college?",
+    answers: [
+      { text: "Williams", correct: true },
+      { text: "Amherst", correct: false },
+      { text: "Swarthmore", correct: false },
+      { text: "Bowdoin", correct: false }
+    ]
   }
 ];
 
